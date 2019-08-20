@@ -1,20 +1,17 @@
 {
-  "name": "react19-7",
+  "name": "redux",
   "version": "1.0.0",
-  "description": "React Stoper",
-  "main": "script.js",
+  "description": "Redux actions",
+  "main": "actions.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm-run-all server build",
-    "build": "babel script.js --watch --out-file script-compiled.js",
-    "server": "http-server"
-  },
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MegDeri/react19-7.git"
   },
   "keywords": [
-    "babel",
+    "redux",
     "ES6",
     "stoper",
     "react"
