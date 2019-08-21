@@ -8,20 +8,17 @@
     },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MegDeri/react19-7.git"
+    "url": "git+https://github.com/MegDeri/Redux27-3.git"
   },
   "keywords": [
-    "redux",
-    "ES6",
-    "stoper",
-    "react"
+    "redux"
   ],
   "author": "Magda",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MegDeri/react19-7/issues"
+    "url": "https://github.com/MegDeri/Redux27-3/issues"
   },
-  "homepage": "https://github.com/MegDeri/react19-7#readme",
+  "homepage": "https://github.com/MegDeri/Redux27-3#readme",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "npm-run-all": "^4.1.5"
